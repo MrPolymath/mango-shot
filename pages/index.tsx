@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="flex flex-col items-center justify-center h-screen">
+      <main className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-teal-200 to-lime-200 hover:bg-gradient-to-l">
         <h1 className="text-6xl mb-4">Mango Sh🥭t</h1>
         <h2 className="text-2xl mb-20">
           Simple tool to take screenshots, annotate and share.
